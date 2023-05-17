@@ -1,0 +1,9 @@
+scipy~=1.9.0
+sklearn~=0.0
+matplotlib~=3.5.3
+h5py
+tqdm~=4.64.0
+numpy~=1.23.3
+torch>=1.12.1+cu116
+torchvision>=0.13.1+cu116
+scikit-learn~=1.1.2
